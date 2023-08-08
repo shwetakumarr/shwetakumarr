@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Shweta Kumar!
 
 - 🌱 I’m a junior at the University of Michigan studying Computer Science with a minor in Statistics.
-- 💻 I like desiging and creating UIs that aid users in more easily accomplishing their goals.
+- 💻 I like desiging and creating UIs that optimize the user experience.
 - ⚡ Check out my personal [website](https://shwetakumarr.github.io./) here to see what I've been up to!
 
 <!--
