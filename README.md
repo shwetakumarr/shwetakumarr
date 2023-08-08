@@ -2,7 +2,7 @@
 
 - 🌱 I’m a junior at the University of Michigan studying Computer Science with a minor in Statistics.
 - 💻 I like desiging and creating UIs that aid users in more easily accomplishing their goals.
-- ⚡ Check out my [website](https://shwetakumarr.github.io./)
+- ⚡ Check out my personal [website](https://shwetakumarr.github.io./) here to see what I've been up to!
 
 <!--
 **shwetakumarr/shwetakumarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
